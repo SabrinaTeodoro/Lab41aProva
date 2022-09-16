@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-size: larger;
+}
+.wrapper{
+    margin: 20px auto;
+    width: 950px;
+    border: 1px solid black;
+    padding: 10px;
+}
+section{
+    margin: 10px 0;
+    border: 1px solid black;
+}
+h1{
+    margin: 15px 0;
+    text-align: center;
+}
+.jogo{
+    margin: 10px 0 10px 0;
+}
+span img{
+    height: 16px;
+}
